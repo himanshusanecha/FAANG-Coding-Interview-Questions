@@ -239,7 +239,7 @@ Also Check Here:
 3. ### Microsoft
 | No. | Questions |
 | --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+|1  |-[x] [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |4  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
